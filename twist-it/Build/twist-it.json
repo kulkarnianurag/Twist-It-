@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "twist-it.data.unityweb",
+"asmCodeUrl": "twist-it.asm.code.unityweb",
+"asmMemoryUrl": "twist-it.asm.memory.unityweb",
+"asmFrameworkUrl": "twist-it.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
